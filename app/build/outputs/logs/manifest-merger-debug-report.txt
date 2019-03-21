@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58bdccf1af6b954b2ae21df6b94adc1d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\06d217f11b530c1f7d30e34e4daa193d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\23ef748f8fbf83c0efe838832e3525f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8632b5696ea66adf6ad3470b98fdc594\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e452350155d820fb37e81f58403198b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\38e90671da9daa1e58788e767f9b8164\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5aa63b33535c47bd812cd16af0f9ff69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9905c48d5a87fb4efb9e31e5895542da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ae8d168a596ab8d4ed449f1a6f1c4168\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d77a4e57b665cd54d91c3d0cd8d37e6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e84f144ac12e1f9f7c69a332930c23f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c06076be4a9f6feff031c8676f4ab2df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\04ab943ef76dbc032d0d8648fb6aefb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\765fa4b4e693c207ce25b6830e2a4f63\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\66c7cb3dc203a16563127cd0157b5dc7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0fbd385906857edccb3545ef7591f9c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc8d448bf79ec811dfe4c5026694c6c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc8035f62e4861112465cd4792ad7c9a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58bdccf1af6b954b2ae21df6b94adc1d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58bdccf1af6b954b2ae21df6b94adc1d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme.DetailActivity
+ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49
+activity#com.example.android.materialme.MainActivity
+ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58bdccf1af6b954b2ae21df6b94adc1d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58bdccf1af6b954b2ae21df6b94adc1d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\06d217f11b530c1f7d30e34e4daa193d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\06d217f11b530c1f7d30e34e4daa193d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\23ef748f8fbf83c0efe838832e3525f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\23ef748f8fbf83c0efe838832e3525f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8632b5696ea66adf6ad3470b98fdc594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8632b5696ea66adf6ad3470b98fdc594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e452350155d820fb37e81f58403198b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e452350155d820fb37e81f58403198b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\38e90671da9daa1e58788e767f9b8164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\38e90671da9daa1e58788e767f9b8164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5aa63b33535c47bd812cd16af0f9ff69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5aa63b33535c47bd812cd16af0f9ff69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9905c48d5a87fb4efb9e31e5895542da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9905c48d5a87fb4efb9e31e5895542da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ae8d168a596ab8d4ed449f1a6f1c4168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ae8d168a596ab8d4ed449f1a6f1c4168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d77a4e57b665cd54d91c3d0cd8d37e6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d77a4e57b665cd54d91c3d0cd8d37e6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e84f144ac12e1f9f7c69a332930c23f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e84f144ac12e1f9f7c69a332930c23f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c06076be4a9f6feff031c8676f4ab2df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c06076be4a9f6feff031c8676f4ab2df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\04ab943ef76dbc032d0d8648fb6aefb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\04ab943ef76dbc032d0d8648fb6aefb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\765fa4b4e693c207ce25b6830e2a4f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\765fa4b4e693c207ce25b6830e2a4f63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\66c7cb3dc203a16563127cd0157b5dc7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\66c7cb3dc203a16563127cd0157b5dc7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0fbd385906857edccb3545ef7591f9c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0fbd385906857edccb3545ef7591f9c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc8d448bf79ec811dfe4c5026694c6c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc8d448bf79ec811dfe4c5026694c6c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc8035f62e4861112465cd4792ad7c9a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Bonaventura Jason\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc8035f62e4861112465cd4792ad7c9a\AndroidManifest.xml:20:5-44
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bonaventura Jason\Kuliah\ITHB\Semester 6\Praktikum PAM\Week 9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
