@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         // Initialize the RecyclerView.
         mRecyclerView = findViewById(R.id.recyclerView);
 
@@ -55,9 +56,16 @@ public class MainActivity extends AppCompatActivity {
         // Initialize the adapter and set it to the RecyclerView.
         mAdapter = new SportsAdapter(this, mSportsData);
         mRecyclerView.setAdapter(mAdapter);
+        if(savedInstanceState == null){
+            initializeData();
+        }
+        else{
+            mSportsData = savedInstanceState.getParcelableArrayList("key");
+        }
+        mAdapter = new SportsAdapter(this, mSportsData);
+        mRecyclerView.setAdapter(mAdapter);
 
-        // Get the data.
-        initializeData();
+
 
         ItemTouchHelper helper = new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT | ItemTouchHelper.DOWN | ItemTouchHelper.UP, ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT) {
             @Override
@@ -77,6 +85,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         helper.attachToRecyclerView(mRecyclerView);
+
+
+
     }
 
     /**
@@ -103,9 +114,19 @@ public class MainActivity extends AppCompatActivity {
 
         // Notify the adapter of the change.
         mAdapter.notifyDataSetChanged();
+
+
     }
+
 
     public void resetSports(View view) {
         initializeData();
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putParcelableArrayList("key", mSportsData);
+
     }
 }
