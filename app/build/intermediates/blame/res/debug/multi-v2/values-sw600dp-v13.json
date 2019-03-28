@@ -14,12 +14,48 @@
                         "endOffsets": "110,180,251,323,381,439,545,609,672,854"
                     },
                     "to": {
-                        "startLines": "10,11,12,13,14,15,16,17,18,19",
+                        "startLines": "10,11,12,13,14,15,16,17,18,25",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,671,741,812,884,942,1000,1106,1170,1233",
-                        "endLines": "10,11,12,13,14,15,16,17,18,22",
+                        "startOffsets": "611,671,741,812,884,942,1000,1106,1170,1602",
+                        "endLines": "10,11,12,13,14,15,16,17,18,28",
                         "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "666,736,807,879,937,995,1101,1165,1228,1410"
+                        "endOffsets": "666,736,807,879,937,995,1101,1165,1228,1779"
+                    }
+                },
+                {
+                    "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 9\\MaterialMe-Starter\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "2,6,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,303,139",
+                        "endLines": "2,6,5",
+                        "endColumns": "80,80,12",
+                        "endOffsets": "133,379,297"
+                    },
+                    "to": {
+                        "startLines": "20,21,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1283,1362,1443",
+                        "endLines": "20,21,24",
+                        "endColumns": "78,80,12",
+                        "endOffsets": "1357,1438,1597"
+                    }
+                },
+                {
+                    "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 9\\MaterialMe-Starter\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "49",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1233",
+                        "endColumns": "49",
+                        "endOffsets": "1278"
                     }
                 },
                 {
